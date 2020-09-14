@@ -5,7 +5,7 @@ The toolkit, so far, contains a few processing pipelines needed to visualise the
 
 The toolkit in its current state helps in the information-theoretic analysis of the neural spike trains obtained from the spike sorting process, in that it adds a separate metric for assessing the sorting algorithms' performance (next to the sorting accuracy, obtained from the sorting output's comparison with invasively-obtained ground-truth data).
 
-Next developments will be focusing on estimating individual neural units' quality for specific sorters.
+Next developments will be focused on estimating individual neural units' quality for specific sorters.
 
 entropyes is to be integrated within the spikeforest framework (Flatiron Institute, https://github.com/flatironinstitute/spikeforest2).
 
